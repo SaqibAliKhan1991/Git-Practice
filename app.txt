@@ -3,3 +3,4 @@
 this is commit from second branch "featuire login"
 
 Now this comment is from repo github
+logout feature
