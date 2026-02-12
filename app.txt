@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Different change line 1
+=======
+Change line 1
+>>>>>>> feature-conflict
